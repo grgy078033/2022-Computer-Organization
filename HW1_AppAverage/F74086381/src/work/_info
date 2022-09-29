@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vCS
+!i10b 1
+!s100 B8EUmE]bCL?5V=hH3>Uo91
+IHA:C0nVLb4ojT1mOWSfoG0
+Z1 VP;1JL3cV6P64E9h7iYOML3
+Z2 dC:\ModelSimProject\HW1_AppAverage\F740XXXXX\src
+w1646577665
+Z3 8C:/ModelSimProject/HW1_AppAverage/F740XXXXX/src/CS.v
+Z4 FC:/ModelSimProject/HW1_AppAverage/F740XXXXX/src/CS.v
+L0 2
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1646577669.597000
+!s107 C:/ModelSimProject/HW1_AppAverage/F740XXXXX/src/CS.v|
+Z6 !s90 -reportprogress|300|-work|work|C:/ModelSimProject/HW1_AppAverage/F740XXXXX/src/CS.v|
+!s101 -O0
+Z7 o-work work -O0
+n@c@s
+vtest
+Z8 IZ;ikR0^Z7[Kl<@cgLZNYM2
+Z9 V@g1G_[E5?I1a0ikSeP7JF3
+R2
+Z10 w1605684621
+Z11 8C:/ModelSimProject/HW1_AppAverage/F740XXXXX/src/testfixture.v
+Z12 FC:/ModelSimProject/HW1_AppAverage/F740XXXXX/src/testfixture.v
+L0 7
+R5
+r1
+31
+R7
+Z13 !s100 9ii3k;:bI^?oMlAF03HXE1
+Z14 !s90 -reportprogress|300|-work|work|C:/ModelSimProject/HW1_AppAverage/F740XXXXX/src/testfixture.v|
+Z15 !s108 1646564620.531000
+Z16 !s107 C:/ModelSimProject/HW1_AppAverage/F740XXXXX/src/testfixture.v|
+!i10b 1
+!s85 0
+!s101 -O0

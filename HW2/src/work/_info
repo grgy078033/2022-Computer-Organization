@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vtraffic_light
+!i10b 1
+Z1 !s100 PXd12Bo`H83;ANzG<Yzj>1
+Z2 I`Y:OVJ@>0@1Ea>B^iV@TI1
+Z3 V`U4]1oP5j2<dTXM9i3Zd41
+Z4 dC:\ModelSimProject\HW2\src
+Z5 w1647875547
+Z6 8C:/ModelSimProject/HW2/src/traffic_light.v
+Z7 FC:/ModelSimProject/HW2/src/traffic_light.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1647875580.582000
+!s107 C:/ModelSimProject/HW2/src/traffic_light.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/ModelSimProject/HW2/src/traffic_light.v|
+!s101 -O0
+Z10 o-work work -O0
+vtraffic_light_tb
+Z11 II72i`zGKRT2@PNM9@NG6H1
+Z12 VN4X_9^ER9K^ggc_Mhiif80
+R4
+Z13 w1643250536
+Z14 8C:/ModelSimProject/HW2/src/traffic_light_tb.v
+Z15 FC:/ModelSimProject/HW2/src/traffic_light_tb.v
+L0 7
+R8
+r1
+31
+R10
+Z16 !s100 L>o:2iOkeH>G`KeNdFNH03
+Z17 !s108 1647722929.544000
+Z18 !s107 C:/ModelSimProject/HW2/src/traffic_light_tb.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/ModelSimProject/HW2/src/traffic_light_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
